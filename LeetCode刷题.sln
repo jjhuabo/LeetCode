@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查找排序数组中的最
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "添加括号的不同方法", "添加括号的不同方法\添加括号的不同方法.vcxproj", "{BBCE8DC9-1894-4262-BE12-3AC7C2675D9A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字梯", "字梯\字梯.vcxproj", "{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{BBCE8DC9-1894-4262-BE12-3AC7C2675D9A}.Release|x64.Build.0 = Release|x64
 		{BBCE8DC9-1894-4262-BE12-3AC7C2675D9A}.Release|x86.ActiveCfg = Release|Win32
 		{BBCE8DC9-1894-4262-BE12-3AC7C2675D9A}.Release|x86.Build.0 = Release|Win32
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Debug|x64.ActiveCfg = Debug|x64
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Debug|x64.Build.0 = Debug|x64
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Debug|x86.Build.0 = Debug|Win32
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Release|x64.ActiveCfg = Release|x64
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Release|x64.Build.0 = Release|x64
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Release|x86.ActiveCfg = Release|Win32
+		{BAA94D86-F74A-415D-8FF4-8FDD869CFC6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
