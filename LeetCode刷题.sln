@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字梯", "字梯\字梯.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查找最大连通面积", "查找最大连通面积\查找最大连通面积.vcxproj", "{2C25E7CB-E28F-4AF8-853D-2F8B2E09F9F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "矩阵中的连通分量数目", "矩阵中的连通分量数目\矩阵中的连通分量数目.vcxproj", "{7A91F29F-1CE7-42F6-9248-D07632A4960E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{2C25E7CB-E28F-4AF8-853D-2F8B2E09F9F9}.Release|x64.Build.0 = Release|x64
 		{2C25E7CB-E28F-4AF8-853D-2F8B2E09F9F9}.Release|x86.ActiveCfg = Release|Win32
 		{2C25E7CB-E28F-4AF8-853D-2F8B2E09F9F9}.Release|x86.Build.0 = Release|Win32
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Debug|x64.ActiveCfg = Debug|x64
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Debug|x64.Build.0 = Debug|x64
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Debug|x86.Build.0 = Debug|Win32
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Release|x64.ActiveCfg = Release|x64
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Release|x64.Build.0 = Release|x64
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Release|x86.ActiveCfg = Release|Win32
+		{7A91F29F-1CE7-42F6-9248-D07632A4960E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
