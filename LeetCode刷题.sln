@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "矩阵中的连通分量数
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "朋友圈子 547", "朋友圈子 547\朋友圈子 547.vcxproj", "{2F80300E-440C-4581-98E5-47A37661F123}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "青蛙跳403", "青蛙跳403\青蛙跳403.vcxproj", "{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{2F80300E-440C-4581-98E5-47A37661F123}.Release|x64.Build.0 = Release|x64
 		{2F80300E-440C-4581-98E5-47A37661F123}.Release|x86.ActiveCfg = Release|Win32
 		{2F80300E-440C-4581-98E5-47A37661F123}.Release|x86.Build.0 = Release|Win32
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Debug|x64.ActiveCfg = Debug|x64
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Debug|x64.Build.0 = Debug|x64
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Debug|x86.Build.0 = Debug|Win32
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Release|x64.ActiveCfg = Release|x64
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Release|x64.Build.0 = Release|x64
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Release|x86.ActiveCfg = Release|Win32
+		{7A1A3AF0-2BC2-4075-8EC2-7FD49B6BDC72}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
