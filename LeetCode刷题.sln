@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "太平洋大西洋水流量
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC 17电话号码的字母组合", "LC 17电话号码的字母组合\LC 17电话号码的字母组合.vcxproj", "{2073A77D-D25B-469A-BD34-7FF578918F7F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC 638 购物优惠", "LC 638 购物优惠\LC 638 购物优惠.vcxproj", "{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{2073A77D-D25B-469A-BD34-7FF578918F7F}.Release|x64.Build.0 = Release|x64
 		{2073A77D-D25B-469A-BD34-7FF578918F7F}.Release|x86.ActiveCfg = Release|Win32
 		{2073A77D-D25B-469A-BD34-7FF578918F7F}.Release|x86.Build.0 = Release|Win32
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Debug|x64.ActiveCfg = Debug|x64
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Debug|x64.Build.0 = Debug|x64
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Debug|x86.Build.0 = Debug|Win32
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x64.ActiveCfg = Release|x64
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x64.Build.0 = Release|x64
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x86.ActiveCfg = Release|Win32
+		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
