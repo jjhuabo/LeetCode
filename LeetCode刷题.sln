@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC 17电话号码的字母�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC 638 购物优惠", "LC 638 购物优惠\LC 638 购物优惠.vcxproj", "{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LC93 恢复IP地址", "LC93 恢复IP地址\LC93 恢复IP地址.vcxproj", "{069D0550-8992-4828-856C-1A80105D466C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x64.Build.0 = Release|x64
 		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x86.ActiveCfg = Release|Win32
 		{3D0CB40E-4C48-41ED-B24D-D68B70A9A16A}.Release|x86.Build.0 = Release|Win32
+		{069D0550-8992-4828-856C-1A80105D466C}.Debug|x64.ActiveCfg = Debug|x64
+		{069D0550-8992-4828-856C-1A80105D466C}.Debug|x64.Build.0 = Debug|x64
+		{069D0550-8992-4828-856C-1A80105D466C}.Debug|x86.ActiveCfg = Debug|Win32
+		{069D0550-8992-4828-856C-1A80105D466C}.Debug|x86.Build.0 = Debug|Win32
+		{069D0550-8992-4828-856C-1A80105D466C}.Release|x64.ActiveCfg = Release|x64
+		{069D0550-8992-4828-856C-1A80105D466C}.Release|x64.Build.0 = Release|x64
+		{069D0550-8992-4828-856C-1A80105D466C}.Release|x86.ActiveCfg = Release|Win32
+		{069D0550-8992-4828-856C-1A80105D466C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
